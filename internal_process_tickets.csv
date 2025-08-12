@@ -1,0 +1,55 @@
+ticket,category
+Implement stress test routines for capital adequacy.,Risk Assessment
+Assess risk of natural disasters on property insurance portfolio.,Risk Assessment
+Loan application page stuck on loading spinner.,Bug
+Claims processing module throws null pointer exception intermittently.,Bug
+Upgrade third‑party libraries to address recent CVEs.,Security Vulnerability
+Perform security review for API endpoints exposed to vendors.,Security Vulnerability
+Refactor legacy code in underwriting module to improve maintainability.,Technical Debt
+Upgrade database cluster to latest stable version.,Infrastructure Upgrade
+Ensure data anonymization features meet latest compliance guidelines.,Compliance Update
+Develop API to integrate with new actuarial modeling tool.,Feature Request
+Prepare a tutorial for using the internal analytics dashboard.,Documentation
+Review and update transaction logging to meet new compliance standards.,Compliance Update
+Refactor caching mechanism to decrease response time.,Performance Improvement
+Write detailed API documentation for new claims endpoint.,Documentation
+Parallelize premium calculation to handle peak load.,Performance Improvement
+Create model to predict default risk for corporate clients.,Risk Assessment
+Create onboarding guide for new developers joining the project.,Documentation
+Enable custom notification settings for claims adjusters.,Feature Request
+Provision new test environment for continuous integration pipelines.,Infrastructure Upgrade
+Set up automated scaling for microservices running in Kubernetes.,Infrastructure Upgrade
+Introduce automated reminders for renewal of insurance policies.,Feature Request
+Document standard operating procedures for incident response.,Documentation
+Implement changes for upcoming financial regulatory compliance reports.,Compliance Update
+Review and update architecture diagrams to include new services.,Documentation
+Investigate reported SQL injection issue in claim submission form.,Security Vulnerability
+Migrate on‑premise servers to cloud‑based container platform.,Infrastructure Upgrade
+Add a dashboard for real‑time risk assessment metrics.,Feature Request
+Replace deprecated authentication library with supported version.,Technical Debt
+Improve batch job throughput for overnight claim processing.,Performance Improvement
+User cannot submit form when special characters are included in policy name.,Bug
+Document code dependencies and update README files.,Technical Debt
+Patch the critical vulnerability identified in the payment module.,Security Vulnerability
+Prepare scenario analysis for potential cyber‑attack risk.,Risk Assessment
+Analyze impact of interest rate changes on insurance portfolios.,Risk Assessment
+Remove unused classes from the notification service.,Technical Debt
+Optimize database queries for monthly financial report generation.,Performance Improvement
+Add support for mandated audit trail storage per insurance regulations.,Compliance Update
+Update the system to comply with new GDPR data retention requirements.,Compliance Update
+Provide export functionality for audit reports in CSV format.,Feature Request
+Develop script to evaluate exposure to market volatility.,Risk Assessment
+Implement multi‑factor authentication for internal admin portal.,Feature Request
+Replace aging network switches in datacenter.,Infrastructure Upgrade
+PDF generation fails for large policy documents.,Bug
+Fix cross‑site scripting vulnerability found during pen test.,Security Vulnerability
+Incorrect calculation of premium discounts after latest update.,Bug
+Implement disaster recovery strategy using multi‑region deployment.,Infrastructure Upgrade
+Reduce latency of API responses for real‑time quotes.,Performance Improvement
+Analyze and reduce memory footprint of risk assessment service.,Performance Improvement
+Update user manuals to reflect changes in the policy management system.,Documentation
+Create a checklist for annual compliance audit and integrate into workflow.,Compliance Update
+Dropdown options not loading on the underwriting page.,Bug
+Add unit tests for claim scoring algorithm.,Technical Debt
+Clean up hard‑coded configuration values throughout the codebase.,Technical Debt
+Rotate encryption keys and update key management process.,Security Vulnerability
